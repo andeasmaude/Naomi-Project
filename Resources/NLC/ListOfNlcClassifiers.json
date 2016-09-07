@@ -1,0 +1,18 @@
+{
+    "classifiers": [
+        {
+            "classifier_id": "340008x87-nlc-2213",
+            "created": "2016-08-25T01:30:21.243Z",
+            "language": "en",
+            "name": "BasicConversationWithBankFaqs",
+            "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/340008x87-nlc-2213"
+        },
+        {
+            "classifier_id": "7ace87x92-nlc-651",
+            "created": "2016-08-17T13:26:12.772Z",
+            "language": "en",
+            "name": "BasicConversation",
+            "url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/7ace87x92-nlc-651"
+        }
+    ]
+}
